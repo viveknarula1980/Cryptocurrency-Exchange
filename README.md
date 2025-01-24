@@ -8,3 +8,11 @@ Uniswap is a DeFi (Decentralized Finance) product, meaning it operates without a
 Since it’s open-source, anyone can access the code, deploy it, and customize it to create their own version of Uniswap or similar decentralized exchanges.
 
 In short, building your own Uniswap allows you to replicate this decentralized and trustless exchange system using smart contracts and AMMs, enabling users to trade cryptocurrencies directly with each other on the blockchain.
+
+### To run this repo
+
+git clone- https://github.com/viveknarula1980/Cryptocurrency-Exchange.git
+
+2.npm i
+
+3.npm run dev
