@@ -16,3 +16,8 @@ git clone- https://github.com/viveknarula1980/Cryptocurrency-Exchange.git
 2.npm i
 
 3.npm run dev
+
+
+## Contributing:
+
+Contributions are welcome! Please open an issue to discuss proposed changes or submit a pull request.
