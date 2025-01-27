@@ -168,9 +168,6 @@ export const PROVIDER = ({ children }) => {
       const connection = await web3modal.connect();
       const provider = new ethers.providers.Web3Provider(connection);
 
-      // const provider = new ethers.providers.JsonRpcProvider(
-      //   "https://rpc.ankr.com/eth"
-      // );
 
       const newtork = await provider.getNetwork();
       const ETHER = Ether.onChain(newtork.chainId);
